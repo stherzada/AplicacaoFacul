@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplicacaoFacul</string>
+    <string name="somar">Somar</string>
+    <string name="digite_o_primeiro_n_mero">Digite o primeiro número</string>
+</resources>
